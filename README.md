@@ -1,4 +1,4 @@
-# Chicken-Disease-Classification--Project
+# Chicken-Disease-Classification--Project (Deep Learning Project)
 
 website link : https://chicken-disease-classifier-wnzf.onrender.com
 ## Workflows
