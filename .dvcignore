@@ -3,5 +3,5 @@
 __pycache__/
 *.log
 *.tmp
-
+ 
 # But DO NOT ignore anything else; DVC will manage what it stages
